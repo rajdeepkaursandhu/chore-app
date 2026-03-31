@@ -4,11 +4,14 @@
 <img src="https://img.shields.io/badge/Vite-5-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-Alpine-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge" />
 
 # 📋 ChoreBoard
 
 ### *A premium office task management dashboard — assign, schedule, and track team chores with a beautiful, Outlook-like calendar.*
+
+[![Demo GIF](docs/screenshots/demo.gif)](https://github.com/rajdeepkaursandhu/chore-app)
 
 </div>
 
@@ -40,10 +43,13 @@ Designed to be deployed on an internal office screen or shared browser, it gives
 ## 🖥️ Screenshots
 
 > **Dashboard** — stat cards, completion ring, team activity, overdue alerts, and 7-day upcoming view
+![Dashboard](docs/screenshots/dashboard.png)
 
 > **Calendar (Month View)** — chore pills color-coded by status with member avatars
+![Calendar](docs/screenshots/calendar_month.png)
 
 > **Team Members** — member cards with individual chore completion stats and progress bars
+![Team](docs/screenshots/team.png)
 
 ---
 
